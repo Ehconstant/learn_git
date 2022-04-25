@@ -1,5 +1,5 @@
 public class Vehicule {
     public Vehicule() {
-        System.out.println("Vehicule !"); 
+        System.out.println("Vehicule !");
     }
 }
